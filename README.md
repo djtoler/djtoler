@@ -5,9 +5,8 @@
 
 
 
+![](https://github.com/djtoler/djtoler/blob/main/banner.jpg)
 
-
-### Hi there 🤗
 ### This is "Dwayne Toler" 🎖️
 #### 🥇Software Engineer
 
