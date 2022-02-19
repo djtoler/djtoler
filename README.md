@@ -17,7 +17,7 @@ Highly motivated and dedicated software engineering. Graduate of Grand Circus of
 After 9 years in the automotive industry I am transitioning from a career of leading production teams to a software developer.  Skills include JavaScript, Node.js, MySQL, MongoDB, React.js, Express.js, HTML, CSS, Six Sigma, GitHub, MindMapping, GitBash, PostgreSQL, Postman.
 
 🎡**Overview of my skills:**<br>
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
+![](https://img.shields.io/badge/<#F7DF1E>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
 
 ✅javascript<br>
 ✅Node Js<br>
