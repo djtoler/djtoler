@@ -14,7 +14,25 @@
 
 Highly motivated and dedicated software engineering. Graduate of Grand Circus of Detroit, Michigan with 6 months experience in software development and over 7 years experience in data driven problem solving. After 9 years in the automotive industry I am transitioning from a career of leading production teams to a software developer.  Skills include JavaScript, Node.js, MySQL, MongoDB, React.js, Express.js, HTML, CSS, Six Sigma, GitHub, MindMapping, GitBash, PostgreSQL, Postman.
 
-Skills: javascript / Node Js/ MySQL/MongoDB/React.js/Express.js/HTML /CSS/Six Sigma/GitHub/MindMapping/GitBash/PostgreSQL/Postman
+🎡**Overview of my skills:**<br>
+
+✅javascript<br>
+✅Node Js<br>
+✅MySQL<br>
+✅MongoDB<br>
+✅React.js<br>
+✅Express.js<br>
+✅HTML<br>
+✅CSS<br>
+✅Six Sigma<br>
+✅GitHub<br>
+✅MindMapping<br>
+✅GitBash<br>
+✅PostGreSQL<br>
+✅PostMan<br>
+✅Etc...<br>
+
+
 
 - 🔭 I’m currently working on As. Software Engineer 
 
