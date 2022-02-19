@@ -8,7 +8,7 @@
 
 
 ### Hi there 🤗
-### This is "Dwayne Tolerz" 🎖️
+### This is "Dwayne Toler" 🎖️
 #### 🥇Software Engineer
 
 
