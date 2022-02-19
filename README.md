@@ -12,9 +12,12 @@
 #### 🥇Software Engineer
 
 
-Highly motivated and dedicated software engineering. Graduate of Grand Circus of Detroit, Michigan with 6 months experience in software development and over 7 years experience in data driven problem solving. After 9 years in the automotive industry I am transitioning from a career of leading production teams to a software developer.  Skills include JavaScript, Node.js, MySQL, MongoDB, React.js, Express.js, HTML, CSS, Six Sigma, GitHub, MindMapping, GitBash, PostgreSQL, Postman.
+Highly motivated and dedicated software engineering. Graduate of Grand Circus of Detroit, Michigan with 6 months experience in software development and over 7 years experience in data driven problem solving. 
+
+After 9 years in the automotive industry I am transitioning from a career of leading production teams to a software developer.  Skills include JavaScript, Node.js, MySQL, MongoDB, React.js, Express.js, HTML, CSS, Six Sigma, GitHub, MindMapping, GitBash, PostgreSQL, Postman.
 
 🎡**Overview of my skills:**<br>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
 
 ✅javascript<br>
 ✅Node Js<br>
@@ -34,7 +37,7 @@ Highly motivated and dedicated software engineering. Graduate of Grand Circus of
 
 
 
-- 🔭 I’m currently working on As. Software Engineer 
+- 🔭 I’m currently accepting Software Engineering work.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/djtoler)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dwayne-toler//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCiH-y5EW-x0-gsq-9RwZFIw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/drive/folders/1XcUkOgZwOya129ovgVGK9CHnAYrszl_6?usp=sharing)  
