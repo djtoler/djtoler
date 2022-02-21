@@ -11,7 +11,7 @@
 #### 🥇Software Engineer
 
 
-Highly motivated and dedicated software engineering. Graduate of Grand Circus of Detroit, Michigan with 6 months experience in software development and over 7 years experience in data driven problem solving. 
+Highly motivated and dedicated software engineer. Graduate of Grand Circus of Detroit, Michigan with 6 months experience in software development and over 7 years experience in data driven problem solving. 
 
 After 9 years in the automotive industry I am transitioning from a career of leading production teams to a software developer.  Skills include JavaScript, Node.js, MySQL, MongoDB, React.js, Express.js, HTML, CSS, Six Sigma, GitHub, MindMapping, GitBash, PostgreSQL, Postman.
 
