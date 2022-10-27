@@ -8,20 +8,25 @@
 ![](https://github.com/djtoler/djtoler/blob/main/banner.jpg)
 
 ### This is "Dwayne Toler" 🎖️
-#### 🥇Software Engineer
+#### 🥇Backend Software Engineer
 
 
-Highly motivated and dedicated software engineer. Graduate of Grand Circus of Detroit, Michigan with 6 months experience in software development and over 7 years experience in data driven problem solving. 
+Highly motivated and dedicated software engineer. Graduate of Grand Circus Full-Stack JavaScript Coding Bootcamp in Detroit, Michigan with 11 months experience in backend engineering and over 7 years experience in daily data driven problem solving. 
 
-After 9 years in the automotive industry I am transitioning from a career of leading production teams to a software developer.  Skills include JavaScript, Node.js, MySQL, MongoDB, React.js, Express.js, HTML, CSS, Six Sigma, GitHub, MindMapping, GitBash, PostgreSQL, Postman.
+After 9 years in the automotive industry I am transitioning from a career of leading production teams to a developing highly scalable, highly reliable backends using clean and flexible coding practices.  
 
 🎡**Overview of my skills:**<br>
 ![](https://img.shields.io/badge/#47A248-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
 
-✅Javascript<br>
 ✅Node Js<br>
-✅MySQL<br>
+✅AWS Certified Cloud Solutions Architectures Associate <br>
+✅AWS Certified Cloud Practitioner <br>
+✅JavaScript<br>
+✅Python for Web Scraping<br>
 ✅MongoDB<br>
+✅Linux Bash Shell Scripting<br>
+✅Terraform<br>
+✅MySQL<br>
 ✅React.js<br>
 ✅Express.js<br>
 ✅HTML<br>
@@ -36,7 +41,6 @@ After 9 years in the automotive industry I am transitioning from a career of lea
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c90696de5a929abf0df0?action=collection%2Fimport)
 
-- 🔭 I’m currently accepting Software Engineering work.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/djtoler)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dwayne-toler//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCiH-y5EW-x0-gsq-9RwZFIw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/drive/folders/1XcUkOgZwOya129ovgVGK9CHnAYrszl_6?usp=sharing)  
