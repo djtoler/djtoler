@@ -7,18 +7,21 @@
 
 ![](https://github.com/djtoler/djtoler/blob/main/banner.jpg)
 
-### This is "Dwayne Toler" 🎖️
-#### 🥇Backend Software Engineer
+
+<img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px"> Hi, I’m Dwayne Toler!
+#### 🥇Backend / Cloud Engineer
 
 
-Highly motivated and dedicated software engineer. Graduate of Grand Circus Full-Stack JavaScript Coding Bootcamp in Detroit, Michigan with 11 months experience in backend engineering and over 7 years experience in daily data driven problem solving. 
+As a recent career transitioner from 9 years in the automotive manufacturing industry, I'm ready to bring my problem-solving to a new challenging role in the tech industry. 
 
-After 9 years in the automotive industry I am transitioning from a career of leading production teams to a developing highly scalable, highly reliable backends using clean and flexible coding practices.  
+My leadership background has taught me the value of things like working as part of a team, vertical & lateral communication and making metric/data driven decisions.
+
+I am confident that my ability to quickly learn and apply new technologies, along with my diverse background and strong work ethic will make me a valuable asset to any organization  
 
 🎡**Overview of my skills:**<br>
 ![](https://img.shields.io/badge/#47A248-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
 
-✅Node Js<br>
+✅Node JS<br>
 ✅AWS Certified Cloud Solutions Architectures Associate <br>
 ✅AWS Certified Cloud Practitioner <br>
 ✅JavaScript<br>
