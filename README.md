@@ -5,7 +5,7 @@
 
 
 
-![](https://github.com/djtoler/djtoler/blob/main/banner.jpg)
+![](https://github.com/djtoler/djtoler/blob/main/DJ-Header-1.png)
 
 
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px"> Hi, I’m Dwayne Toler!
@@ -16,7 +16,9 @@ As a recent career transitioner from 9 years in the automotive manufacturing ind
 
 My leadership background has taught me the value of things like working as part of a team, vertical & lateral communication and making metric/data driven decisions.
 
-I am confident that my ability to quickly learn and apply new technologies, along with my diverse background and strong work ethic will make me a valuable asset to any organization  
+I'm confident that my ability to quickly learn and apply new technologies, along with my diverse background and strong work ethic will make me a valuable asset to whatever team I work with  
+
+![](https://github.com/djtoler/djtoler/blob/main/DJ-Header-2.png)
 
 🎡**Overview of my skills:**<br>
 ![](https://img.shields.io/badge/#47A248-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
