@@ -18,8 +18,6 @@ My leadership background has taught me the value of things like working as part 
 
 I'm confident that my ability to quickly learn and apply new technologies, along with my diverse background and strong work ethic will make me a valuable asset to whatever team I work with  
 
-![](https://github.com/djtoler/djtoler/blob/main/DJ-Header-2.png)
-
 🎡**Overview of my skills:**<br>
 ![](https://img.shields.io/badge/#47A248-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)<br>
 
