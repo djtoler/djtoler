@@ -5,7 +5,7 @@
 
 
 
-![](https://github.com/djtoler/djtoler/blob/main/DJ-Header-1.png)
+//![](https://github.com/djtoler/djtoler/blob/main/DJ-Header-1.png)
 
 
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px"> Hi, I’m Dwayne Toler!
