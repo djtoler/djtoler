@@ -9,7 +9,7 @@
 
 
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px"> Hi, I’m Dwayne Toler!
-#### 🥇SRE / DevOps Engineer 
+#### Aspiring Dev/DataOps Engineer and student of Kura Labs
 
 Student at Kura Labs
 
