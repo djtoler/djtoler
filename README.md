@@ -1,4 +1,4 @@
-#### _Dwayne Toler has over 10 years of working experience collaboratively designig and improving systems in the automotive industry._
+#### _Dwayne Toler has nearly 10 years of experience working collaboratively designig and improving systems in the automotive industry._
 
 #### _His journey into the tech realm began with foundational programming using NodeJS and databases, leading him to the realization that marrying his software development skills with his automotive operations background positions him perfectly for DevOps._ 
 
